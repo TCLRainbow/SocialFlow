@@ -1,0 +1,23 @@
+{
+  "name": "socialflow",
+  "version": "0.0.0",
+  "description": "Center API for handling multiple social medias",
+  "main": "socialflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCLRainbow/SocialFlow.git"
+  },
+  "author": "TCLRainbow",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TCLRainbow/SocialFlow/issues"
+  },
+  "homepage": "https://github.com/TCLRainbow/SocialFlow#readme",
+  "devDependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.0"
+  }
+}
